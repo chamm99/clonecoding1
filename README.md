@@ -1,2 +1,2 @@
 # clonecoding1
-Sit parvum principium, sed erit finis magnum.
+#Sit parvum principium, sed erit finis magnum.
