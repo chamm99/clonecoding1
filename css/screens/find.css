@@ -59,6 +59,7 @@
   background-color: rgba(0, 0, 0, 0.2);
 }
 .open-post__member-status {
+  margin-left: 5px;
   color: pink;
 }
 .open-post__photo {
